@@ -3,4 +3,4 @@ Reading the ini file and writing the received data into variables using python a
 
 
 
-By N0NAMER1337
+#By N0NAMER1337
