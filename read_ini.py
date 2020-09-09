@@ -7,3 +7,4 @@ text3 = CP['Texts']['Text3']
 print (text1)
 print (text2)
 print (text3)
+print ('Donate: https://www.donationalerts.com/r/n0namer1337')
