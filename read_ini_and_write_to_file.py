@@ -4,7 +4,7 @@ CP.read('ini_file.ini') #Read ini file
 text1 = CP['Texts']['Text1'] #Write data from ini file to variables
 text2 = CP['Texts']['Text2']
 text3 = CP['Texts']['Text3']
-text1_file = open('text1.txt', 'w') #Create the files
+text1_file = open('text1.txt', 'w') #Create files
 text2_file = open('text2.txt', 'w')
 text3_file = open('text3.txt', 'w')
 all_in_one = open('all_in_one.txt', 'w')
